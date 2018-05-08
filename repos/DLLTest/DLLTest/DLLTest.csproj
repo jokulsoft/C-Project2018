@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TemperatureSensor">
+      <HintPath>..\..\TemperatureSensor\TemperatureSensor\bin\Debug\netstandard2.0\TemperatureSensor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

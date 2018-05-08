@@ -1,0 +1,10 @@
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\bin\Debug\IntelligentGateway.exe.config
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\bin\Debug\IntelligentGateway.exe
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\bin\Debug\IntelligentGateway.pdb
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.csprojResolveAssemblyReference.cache
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.Form1.resources
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.Properties.Resources.resources
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.csproj.GenerateResource.cache
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.csproj.CoreCompileInputs.cache
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.exe
+c:\users\jokulsoft\source\repos\IntelligentGateway\IntelligentGateway\obj\Debug\IntelligentGateway.pdb
