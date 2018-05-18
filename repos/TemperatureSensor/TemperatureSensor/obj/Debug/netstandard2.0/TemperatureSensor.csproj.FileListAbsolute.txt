@@ -1,9 +1,0 @@
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\bin\Debug\netstandard2.0\TemperatureSensor.deps.json
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\bin\Debug\netstandard2.0\TemperatureSensor.dll
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\bin\Debug\netstandard2.0\TemperatureSensor.pdb
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.csprojResolveAssemblyReference.cache
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.csproj.CoreCompileInputs.cache
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.AssemblyInfoInputs.cache
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.AssemblyInfo.cs
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.dll
-C:\Users\jokulsoft\source\repos\TemperatureSensor\TemperatureSensor\obj\Debug\netstandard2.0\TemperatureSensor.pdb
